@@ -1258,3 +1258,9 @@
 }
 @media (max-width: 480px) {
 }
+
+inf-tex {
+	font-family: "fontAwesome";
+
+	font-size: 30px;
+}
